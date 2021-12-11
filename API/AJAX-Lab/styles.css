@@ -1,6 +1,12 @@
-div {
-  display: flex;
+section {
   border: 2px solid black;
   margin: 15px 0;
   padding: 5px 0;
+}
+
+a {
+  display: block;
+  border-bottom: 3px solid black;
+  margin-top: 10px;
+  padding-bottom: 25px;
 }
