@@ -34,9 +34,6 @@ fetch("https://www.reddit.com/r/aww/.json") //Fetch the data from link
         newLink.innerText = "Click to follow link to Reddit!"
         newLinkPara.append(newLink);
         section.append(newLink);
-        
-
-
 
         
     }  
